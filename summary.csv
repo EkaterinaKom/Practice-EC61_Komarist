@@ -1,0 +1,12 @@
+,model,R2_train,R2_test,MSE_train,MSE_test
+0,simle_linear_accomodates,0.255,0.247,7592.33,7423.67
+1,simple_linear_bedrooms,0.259,0.325,7545.87,6651.37
+2,multiple_linear_all,0.513,0.26,4958.94,7292.65
+3,multiple_linear2,0.513,0.488,4967.65,5046.47
+4,polynomial_regression,0.26,0.325,7545.85,6652.33
+5,simple_tree,0.262,0.327,9704.89,6634.9
+6,regression_tree,0.5479999999999999,0.419,4601.32,5731.36
+7,random_forest,0.914,0.527,872.21,4662.02
+8,rnn23-23-1,,,2554.17,7011.03
+9,rnn23-12-6-1,,,2769.17,7434.6
+10,rnn23-5-1,,,3763.35,6721.74
